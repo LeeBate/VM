@@ -12,7 +12,7 @@
 
 #### 3. Right-click on "Trainee" and select "New Virtual Machine".
 
-![yumtech](./pic/6.png)
+![yumtech](./pic/7.png)
 
 #### 4. Click "Next".
 
