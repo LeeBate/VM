@@ -4,15 +4,15 @@
 
 #### 1. Open the [vcsa.yumtech.info](https://vcsa.yumtech.info). website and click on "Launch vSphere Client (HTML5)".
 
-![yumtech](./pic/1.png)
+![yumtech](./pic/4.png)
 
 #### 2. Enter youremail@yumtech.info and password.
 
-![yumtech](./pic/2.png)
+![yumtech](./pic/5.png)
 
 #### 3. Right-click on "Trainee" and select "New Virtual Machine".
 
-![yumtech](./pic/4.png)
+![yumtech](./pic/6.png)
 
 #### 4. Click "Next".
 
